@@ -55,6 +55,10 @@ body{
 	body{
 		width: 20%;
 	}
+	
+	.footer{
+		visibility: hidden;
+	}
 }
 
 .footer{
