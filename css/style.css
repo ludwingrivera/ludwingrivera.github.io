@@ -1,0 +1,78 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url('../img/Imagen6.png');
+	background-size: cover;
+}
+
+.container{
+	margin-top: 75px;
+	color: #fff;
+}
+
+.div-form{
+	width: 350px; 
+
+}
+
+.cuadro{
+	
+}
+
+.cuadro img{
+	padding: 20px;
+	width: 100%;
+	height: auto;
+	max-width: 750px;
+}
+
+.social-media{
+	padding: 20px;
+	margin-left: 0;
+}
+
+
+.social-media a{
+	color: #20B2AA;
+	padding: 5px;
+}
+
+.social-media a:hover{
+	color: rgb(239, 66, 100);
+}
+
+
+#mc-embedded-subscribe{
+	background: rgb(239, 66, 100);
+}
+
+#mc-embedded-subscribe:hover{
+	background: #20B2AA;
+	border: 1px solid #20B2AA;
+}
+
+@media screen (min-width: 750) {
+	body{
+		width: 20%;
+	}
+}
+
+.footer{
+	font-size: 11px;
+	background: #000;
+	color: #708090;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.link_terminos{
+	color: #fff;
+	text-decoration: underline;
+}
+
+.politica{
+	color: red;
+}
